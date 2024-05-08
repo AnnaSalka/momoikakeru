@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color: aliceblue
+}
+.fontStyle_1 /*das ist ein Klass */
+{
+	color: cornflowerblue;
+	text-align: center;
+	text-decoration: overline;
+}
+
+.h1 {
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	text-align: center;
+	text-decoration: underline; 
+	text-decoration-color: aqua;
+}
+
+.center
+{
+	align-content: center;
+	text-align: center;
+}
+
+#img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
